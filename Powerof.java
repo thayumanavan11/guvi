@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class Power
+public class Powerof
 {
 		public static void main(String[] atm) 
 		{
